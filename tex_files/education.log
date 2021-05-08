@@ -1,0 +1,577 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  8 MAY 2021 16:04
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**education.tex
+(./education.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+./education.tex:4: Undefined control sequence.
+l.4     \myheader
+                 {Education}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./education.tex:4: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4     \myheader{E
+                   ducation}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[] 
+ []
+
+
+./education.tex:8: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8     \begin{center}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--8
+[] 
+ []
+
+
+./education.tex:11: LaTeX Error: Environment longtable undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11     \begin{longtable}
+                          {p{0.2\textwidth}  p{0.7\textwidth}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+./education.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.11     \begin{longtable}{p{0.2\textwidth}
+                                             p{0.7\textwidth}}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./education.tex:11: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.11     \begin{longtable}{p{0.2\textwidth}
+                                             p{0.7\textwidth}}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+./education.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.11 ...gtable}{p{0.2\textwidth}  p{0.7\textwidth}
+                                                  }
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./education.tex:11: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.11 ...gtable}{p{0.2\textwidth}  p{0.7\textwidth}
+                                                  }
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no P in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+./education.tex:12: Misplaced alignment tab character &.
+l.12     PhD, 2016 &
+                     \textbf{Tufts University}. \textit{Graduate School of t...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (25.95262pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/bx/n/10 Tufts 
+ []
+
+
+Overfull \hbox (22.26376pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/bx/n/10 Uni- 
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/bx/n/10 ver- 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/bx/n/10 sity 
+ []
+
+
+Overfull \hbox (25.24149pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 Grad- 
+ []
+
+
+Overfull \hbox (8.94438pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 u- 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 ate 
+ []
+
+
+Overfull \hbox (27.59982pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 School 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (18.8054pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 Arts 
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 and 
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 Sci- 
+ []
+
+
+Overfull \hbox (22.99982pt too wide) in paragraph at lines 11--14
+ \OT1/cmr/m/it/10 ences 
+ []
+
+./education.tex:15: Undefined control sequence.
+l.15         {\small
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (18.91656pt too wide) in paragraph at lines 18--19
+\OT1/cmr/bx/n/10 Ad-
+ []
+
+
+Overfull \hbox (13.09715pt too wide) in paragraph at lines 18--19
+\OT1/cmr/bx/n/10 vi-
+ []
+
+
+Overfull \hbox (15.02214pt too wide) in paragraph at lines 18--19
+\OT1/cmr/bx/n/10 sor
+ []
+
+
+./education.tex:21: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21          \\
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+./education.tex:22: Misplaced alignment tab character &.
+l.22 MS, 2016 &
+                \textbf{Tufts University}. \textit{Graduate School of the Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (25.95262pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/bx/n/10 Tufts 
+ []
+
+
+Overfull \hbox (22.26376pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/bx/n/10 Uni- 
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/bx/n/10 ver- 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/bx/n/10 sity 
+ []
+
+
+Overfull \hbox (25.24149pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 Grad- 
+ []
+
+
+Overfull \hbox (8.94438pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 u- 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 ate 
+ []
+
+
+Overfull \hbox (27.59982pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 School 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (18.8054pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 Arts 
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 and 
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 Sci- 
+ []
+
+
+Overfull \hbox (22.99982pt too wide) in paragraph at lines 22--24
+ \OT1/cmr/m/it/10 ences 
+ []
+
+./education.tex:25: Undefined control sequence.
+l.25         {\small
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+
+./education.tex:31: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31          \\
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+./education.tex:32: Misplaced alignment tab character &.
+l.32 BA, 2011 &
+                \textbf{Hamilton College}. \textit{School of Arts and Scienc...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (34.39563pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/bx/n/10 Hamil- 
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/bx/n/10 ton 
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/bx/n/10 Col- 
+ []
+
+
+Overfull \hbox (19.48602pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/bx/n/10 lege 
+ []
+
+
+Overfull \hbox (27.59982pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/m/it/10 School 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (18.8054pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/m/it/10 Arts 
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/m/it/10 and 
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/m/it/10 Sci- 
+ []
+
+
+Overfull \hbox (22.99982pt too wide) in paragraph at lines 32--34
+ \OT1/cmr/m/it/10 ences 
+ []
+
+./education.tex:35: Undefined control sequence.
+l.35         {\small
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+
+./education.tex:42: LaTeX Error: \begin{center} on input line 8 ended by \end{l
+ongtable}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42     \end{longtable}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> education.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 480608
+ 464 string characters out of 5903631
+ 241610 words of memory out of 5000000
+ 16015 multiletter control sequences out of 15000+600000
+ 532992 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,1n,15p,154b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
