@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 AUG 2021 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 SEP 2021 13:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -858,42 +858,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
  []
 
 [2]) (./tex_files/service.tex [3]) (./tex_files/teaching.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]|\OT1/pplx/m/n/10 Summer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-[]|\OT1/pplx/m/n/10 Spring
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 []|\OT1/pplx/m/n/10 Winter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\OT1/pplx/m/n/10 Winter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\OT1/pplx/m/n/10 Winter
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|\OT1/pplx/m/n/10 Winter
+[]|\OT1/pplx/m/n/10 Summer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/pplx/m/n/10 Spring
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/pplx/m/n/10 Spring
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 []|\OT1/pplx/m/n/10 Fall 2012
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 56--56
+Underfull \hbox (badness 2326) in paragraph at lines 58--58
 \OT1/pplx/m/n/10 -- Sum-mer
  []
 
@@ -943,10 +943,10 @@ exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on hbray_cv.pdf (8 pages, 96564 bytes).
+Output written on hbray_cv.pdf (8 pages, 96154 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  27 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
