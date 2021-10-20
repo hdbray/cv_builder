@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 SEP 2021 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  20 OCT 2021 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,19 +898,19 @@ Underfull \hbox (badness 2326) in paragraph at lines 58--58
  []
 
 ) (./tex_files/talks_visits.tex
-Underfull \hbox (badness 1412) in paragraph at lines 43--44
+Underfull \hbox (badness 1412) in paragraph at lines 44--45
 []|\OT1/pplx/b/n/10 School on Ge-om-e-try and Dy-nam-ics\OT1/pplx/m/n/10 . \OT1
 /pplx/m/it/10 Cen-tre In-ter-na-tional de Ren-con-tres
  []
 
 [5]
-Underfull \hbox (badness 2065) in paragraph at lines 63--65
+Underfull \hbox (badness 2065) in paragraph at lines 64--66
 []|\OT1/pplx/b/n/10 Mathematical Re-search Com-mu-nity Work-shop on Dy-nam-i-ca
 l Sys-tems:
  []
 
 [6]
-Underfull \hbox (badness 2418) in paragraph at lines 94--95
+Underfull \hbox (badness 2418) in paragraph at lines 95--96
 []|\OT1/pplx/b/n/10 S^^Seminaire: Dy-namique, Arithm^^Sethique et Com-bi-na-toi
 re\OT1/pplx/m/n/10 . \OT1/pplx/m/it/10 In-sti-tut de
  []
@@ -943,7 +943,7 @@ exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on hbray_cv.pdf (8 pages, 96154 bytes).
+Output written on hbray_cv.pdf (8 pages, 96214 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream

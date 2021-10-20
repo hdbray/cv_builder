@@ -1,4 +1,5 @@
 Event,Institution,Location,"Type (seminar, workshop, conference, invited visit, colloquium, minicourse)","Role (speaker, conference participant, seminar participant, or visitor)",Start Day,Start Month,Start Year,Start Semester,End Day,End Month,End Year,End Semester,Link,Note,Talk Title,Active
+The Nearly Carbon Neutral Geometric Topology Conference,,,conference,speaker,14,June,2021,,25,June,2021,,https://www.ncngt.org/,virtual,,
 Topology and Geometry Seminar,Florida State University,"Tallahassee, FL",seminar,speaker,23,March,2021,,,,,,,virtual,,
 Max Dehn Seminar,University of Utah,"Salt Lake City, UT",seminar,speaker,18,November,2020,,,,,,,virtual,,
 Geometry and Topology Seminar,Columbia University,"New York, NY",seminar,speaker,10,April,2020,,,,,,,virtual,,
