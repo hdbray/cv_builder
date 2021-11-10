@@ -48,7 +48,10 @@ def compile_publications(publications_file,table_spacing, lwidth, rwidth):
         elif status=='accepted':
             journal_data='A%s at \\textbf{%s}.' % (status[1:], journal)
         else:
-            journal_data=' \\textbf{%s%s}. \\url{%s}' % (status[0].capitalize(),status[1:],arxiv)
+            if arxiv!='':
+                journal_data=' \\textbf{%s%s}. \\url{%s}' % (status[0].capitalize(),status[1:],arxiv)
+            else:
+                journal_data=' \\textbf{%s%s}. ' % (status[0].capitalize(),status[1:])
 
 
 
