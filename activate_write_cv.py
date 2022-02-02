@@ -96,7 +96,7 @@ mentoring_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=default_table_spacing
 
-mentoring_text_for_tex=wc_mentoring.compile_mentoring(mentoring_file,table_spacing,default_lwidth,default_rwidth)
+mentoring_text_for_tex=wc_mentoring.compile_mentoring(mentoring_file,table_spacing,thick_lwidth,thick_rwidth)
 
 with open(mentoring_tex, 'w') as write_file:
     write_file.write(mentoring_text_for_tex)
