@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  2 FEB 2022 11:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  11 JUL 2022 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -733,48 +733,8 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 15.
  [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./
 tex_files/grants_awards.tex)
-(./tex_files/mentoring.tex [2]) (./tex_files/service.tex [3])
-(./tex_files/teaching.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\OT1/pplx/m/n/10 Summer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]|\OT1/pplx/m/n/10 Spring
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-[]|\OT1/pplx/m/n/10 Winter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-[]|\OT1/pplx/m/n/10 Winter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|\OT1/pplx/m/n/10 Winter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]|\OT1/pplx/m/n/10 Spring
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]|\OT1/pplx/m/n/10 Fall 2012
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 59--59
-\OT1/pplx/m/n/10 -- Sum-mer
- []
-
-) (./tex_files/talks_visits.tex
+(./tex_files/mentoring.tex [2]) (./tex_files/service.tex [3] [4])
+(./tex_files/teaching.tex) (./tex_files/talks_visits.tex
 Underfull \hbox (badness 1412) in paragraph at lines 44--45
 []|\OT1/pplx/b/n/10 School on Ge-om-e-try and Dy-nam-ics\OT1/pplx/m/n/10 . \OT1
 /pplx/m/it/10 Cen-tre In-ter-na-tional de Ren-con-tres
@@ -801,7 +761,7 @@ Underfull \hbox (badness 2644) in paragraph at lines 15--15
 Here is how much of TeX's memory you used:
  14550 strings out of 480608
  277858 string characters out of 5903631
- 516367 words of memory out of 5000000
+ 515367 words of memory out of 5000000
  29933 multiletter control sequences out of 15000+600000
  557138 words of font info for 87 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
@@ -812,7 +772,7 @@ s/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
 urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/pal
 atino/uplri8a.pfb>
-Output written on hbray_cv.pdf (8 pages, 96597 bytes).
+Output written on hbray_cv.pdf (8 pages, 96554 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
