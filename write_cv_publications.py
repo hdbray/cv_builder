@@ -38,10 +38,19 @@ def compile_publications(publications_file,table_spacing, lwidth, rwidth):
 
         if status=='published':
             journal_data=''
-            if pp!='':
-                journal_data=journal_data+'\\textbf{%s}. Vol %s: %s %s.' % (journal, vol, no, pp)
-            else: 
-                journal_data=journal_data+'\\textbf{%s}. Vol %s: %s.' % (journal, vol, no)
+            if vol!='':
+                if pp!='':
+                    if no!='':
+                        journal_data=journal_data+'\\textbf{%s}. Vol %s: (%s) %s.' % (journal, vol, no, pp)
+                    else: 
+                        journal_data=journal_data+'\\textbf{%s}. Vol %s: %s.' % (journal, vol, pp)
+                else: 
+                    if no!='':
+                        journal_data=journal_data+'\\textbf{%s}. Vol %s: %s.' % (journal, vol, no)
+                    else: 
+                        journal_data=journal_data+'\\textbf{%s}. Vol %s.' % (journal, vol)
+            else:
+                journal_data=journal_data+'\\textbf{%s}.' % (journal)
 
         elif status=='to appear':
             journal_data='T%s in \\textbf{%s}.' % (status[1:], journal)
