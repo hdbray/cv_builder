@@ -34,6 +34,13 @@ def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth):
 
         is_end=i==len(grants_awards_dict)-1
 
+        if award_amt!='':
+            award_amt='\$'+award_amt
+            if note!='':
+                note=award_amt+'. '+note
+            else: 
+                note=award_amt
+
         add_text=wc.create_table_entry(award_name,date,is_end,institution_name, '', note, description,False)
 
         grants_awards_txt=grants_awards_txt+add_text
