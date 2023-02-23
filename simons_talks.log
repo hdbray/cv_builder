@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 DEC 2022 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 DEC 2022 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**hbray_cv.tex
-(./hbray_cv.tex
+**simons_talks.tex
+(./simons_talks.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
@@ -614,8 +614,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count293
 \l__pdf_internal_box=\box109
 )
-(./hbray_cv.aux)
-\openout1 = `hbray_cv.aux'.
+(./simons_talks.aux)
+\openout1 = `simons_talks.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
@@ -720,68 +720,25 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 \MPnumerator=\count298
 \makeMPintoPDFobject=\count299
 \everyMPtoPDFconversion=\toks43
-) ABD: EveryShipout initializing macros (./tex_files/positions.tex)
-(./tex_files/education.tex) (./tex_files/research_interests.tex)
-(./tex_files/publications.tex
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 19.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 19.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 19.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 19.
- [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./
-tex_files/grants_awards.tex
-LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
-12.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1pplx.fd
-File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-))
-(./tex_files/mentoring.tex [2]) (./tex_files/service.tex [3])
-(./tex_files/teaching.tex [4]) (./tex_files/talks_visits.tex
-Underfull \hbox (badness 1412) in paragraph at lines 50--51
-[]|\OT1/pplx/b/n/10 School on Ge-om-e-try and Dy-nam-ics\OT1/pplx/m/n/10 . \OT1
-/pplx/m/it/10 Cen-tre In-ter-na-tional de Ren-con-tres
- []
-
-[5]
-Underfull \hbox (badness 2065) in paragraph at lines 70--72
-[]|\OT1/pplx/b/n/10 Mathematical Re-search Com-mu-nity Work-shop on Dy-nam-i-ca
-l Sys-tems:
- []
-
-[6]
-Underfull \hbox (badness 2418) in paragraph at lines 101--102
-[]|\OT1/pplx/b/n/10 S^^Seminaire: Dy-namique, Arithm^^Sethique et Com-bi-na-toi
-re\OT1/pplx/m/n/10 . \OT1/pplx/m/it/10 In-sti-tut de
- []
-
-[7]) (./tex_files/pedagogical_training.tex
-Underfull \hbox (badness 2644) in paragraph at lines 15--15
-[]|\OT1/pplx/m/n/10 Summer 2016, Sum-
- []
-
-) (./tex_files/memberships.tex) [8] (./hbray_cv.aux) ) 
+) ABD: EveryShipout initializing macros (./tex_files/simons_talks.tex) [1{/usr/
+local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./simons_talks.aux) ) 
 Here is how much of TeX's memory you used:
- 14572 strings out of 480608
- 278204 string characters out of 5903631
- 517367 words of memory out of 5000000
- 29950 multiletter control sequences out of 15000+600000
- 558309 words of font info for 89 fonts, out of 8000000 for 9000
+ 14466 strings out of 480608
+ 276582 string characters out of 5903631
+ 507768 words of memory out of 5000000
+ 29885 multiletter control sequences out of 15000+600000
+ 549894 words of font info for 67 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,9n,60p,440b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/
-texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/font
-s/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts
-/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
-urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/pal
-atino/uplri8a.pfb>
-Output written on hbray_cv.pdf (8 pages, 97081 bytes).
+ 60i,6n,60p,393b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on simons_talks.pdf (1 page, 57983 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

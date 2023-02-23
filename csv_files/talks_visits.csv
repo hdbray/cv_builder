@@ -1,9 +1,9 @@
 Event,Institution,Location,"Type (seminar, workshop, conference, invited visit, colloquium, minicourse)","Role (speaker, conference participant, seminar participant, or visitor)",Start Day,Start Month,Start Year,Start Semester,End Day,End Month,End Year,End Semester,Link,Note,Talk Title,Active
+Dynamics Seminar,University of Maryland,"College Park, MD",seminar,speaker,9,February,2023,,,,,,,,,
 Joint Mathematics Meeting AMS-Spectra Special Session on Research by LGBTQ+ Mathematicians,,"Boston, MA",conference,speaker,6,January,2023,,,,,,,,,
-"Joint Mathematics Meeting Special Session: Dynamics, Geometry \& Group Actions",,"Boston, MA",conference,speaker,,January,2023,,,,,,,,,
+"Joint Mathematics Meeting Special Session: Dynamics, Geometry \& Group Actions",,"Boston, MA",conference,speaker,4,January,2023,,,,,,,,,
 Geometry Seminar,University of Virginia,"Charlottesville, VA",seminar,speaker,1,November,2022,,,,,,,,,
 "Topology, Algebra, and Dynamics Seminar",George Mason University,"Fairfax, VA",seminar,speaker,11,November,2022,,,,,,,,,
-Geometry Seminar,University of Virginia,"Charlottesville, VA",seminar,speaker,1,November,2022,,,,,,,,,
 Geometry Seminar,George Mason University,"Fairfax, VA",seminar,speaker,19,September,2022,,,,,,,,,
 The Nearly Carbon Neutral Geometric Topology Conference,,,conference,participant,19,September,2022,,25,September,2022,,,,,
 Invited Guest,University of Wisconsin,"Madison, WI",invited visit,visitor,8,August,2022,,12,August,2022,,,,,

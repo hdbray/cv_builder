@@ -8,6 +8,8 @@ import write_cv_mentoring as wc_mentoring
 import write_cv_teaching as wc_teaching
 import write_cv_service as wc_service
 
+shortcv_boolean=True
+
 
 default_table_spacing=1.5
 thin_table_spacing=1.2
@@ -32,6 +34,20 @@ publications_text_for_tex=wc_publications.compile_publications(publications_file
 
 with open(publications_tex, 'w') as write_file:
     write_file.write(publications_text_for_tex)
+
+
+### selected publications
+
+
+csv_prefix='publications'
+tex_prefix='selected_publications'
+selected_publications_file='csv_files/'+csv_prefix+'.csv'
+selected_publications_tex='tex_files/'+tex_prefix+'.tex'
+
+selected_publications_text_for_tex=wc_publications.compile_publications(selected_publications_file,default_table_spacing, thin_lwidth,thin_rwidth,True)
+
+with open(selected_publications_tex, 'w') as write_file:
+    write_file.write(selected_publications_text_for_tex)
 
 
 #### write grants_awards tex file
@@ -96,7 +112,7 @@ mentoring_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=default_table_spacing
 
-mentoring_text_for_tex=wc_mentoring.compile_mentoring(mentoring_file,table_spacing,thick_lwidth,thick_rwidth)
+mentoring_text_for_tex=wc_mentoring.compile_mentoring(mentoring_file,table_spacing,thick_lwidth,thick_rwidth, shortcv_boolean)
 
 with open(mentoring_tex, 'w') as write_file:
     write_file.write(mentoring_text_for_tex)

@@ -9,9 +9,10 @@ import write_cv_main_functions as wc
 #### publications CV data
 
 
-def compile_publications(publications_file,table_spacing, lwidth, rwidth):
+def compile_publications(publications_file,table_spacing, lwidth, rwidth, selected=False):
 
     publications_txt=wc.header_setup('Preprints and Publications', table_spacing,lwidth,rwidth)
+    selected_publications_txt=wc.header_setup('Selected Publications', table_spacing,lwidth,rwidth)
 
     publications_dict=wc.convert_csv_to_dict(publications_file)
 
@@ -30,6 +31,7 @@ def compile_publications(publications_file,table_spacing, lwidth, rwidth):
         arxiv=row['ArXiv']
         doi=row['DOI']
         include=row['Compile']
+        short_cv=row['Short CV']
 
         publication_main='''
         %s. \\textit{%s}. (%s). 
@@ -72,8 +74,16 @@ def compile_publications(publications_file,table_spacing, lwidth, rwidth):
 
         if include=='Y':
             publications_txt=publications_txt+'\n'+publication_item
+            if short_cv=='Y':
+                selected_publications_txt=selected_publications_txt+'\n'+publication_item
 
-    return publications_txt
+
+
+    if selected==True:
+        return selected_publications_txt
+    else:
+        return publications_txt
+
 
 
 

@@ -5,7 +5,7 @@ import write_cv_main_functions as wc
 
 ### mentoring
 
-def compile_mentoring(mentoring_file, table_spacing,lwidth,rwidth):
+def compile_mentoring(mentoring_file, table_spacing,lwidth,rwidth,shortcv=False):
 
     mentoring_txt=wc.header_setup('Mentoring and Advising', table_spacing,lwidth,rwidth)
     mentoring_dict=wc.convert_csv_to_dict(mentoring_file)
@@ -33,6 +33,9 @@ def compile_mentoring(mentoring_file, table_spacing,lwidth,rwidth):
             description='''
             Co-Mentors: %s ''' % (comentors)
 
+        if shortcv==True:
+            description=''
+
         note=''
 
         date=wc.format_date('','',start_yr,start_sem,'','',end_yr,end_sem)
@@ -41,7 +44,6 @@ def compile_mentoring(mentoring_file, table_spacing,lwidth,rwidth):
 
         mentoring_txt+=wc.create_table_entry(service_role, date,is_end,title,mentees,note,description,False)
 
-#    mentoring_txt=mentoring_txt+wc.table_close()
 
     return mentoring_txt
 
