@@ -7,7 +7,7 @@ import write_cv_main_functions as wc
 
 def compile_talks_visits(talks_visits_file, table_spacing,lwidth,rwidth):
 
-    talks_visits_dict=wc.convert_csv_to_dict(talks_visits_file)
+    talks_visits_dict=wc.convert_csv_to_dict(talks_visits_file,'Sorting Date')
 
     talks_visits_txt=wc.header_setup('Conferences, Seminars, Workshops, and Visits', table_spacing,lwidth,rwidth,False)
 

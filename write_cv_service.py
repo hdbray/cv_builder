@@ -5,7 +5,7 @@ import write_cv_main_functions as wc
 
 def compile_service(service_file, table_spacing,lwidth,rwidth):
 
-    service_dict=wc.convert_csv_to_dict(service_file)
+    service_dict=wc.convert_csv_to_dict(service_file,'Sorting Date')
 
     service_txt=wc.header_setup('Service and Leadership', table_spacing,lwidth,rwidth,False)
 

@@ -52,7 +52,7 @@ def string_to_float(string):
     else:
         return float(string)
 
-def convert_csv_to_dict(filename):
+def convert_csv_to_dict(filename,sort_key=''):
     #filename should be a string
     #it is the prefix 
     #do not include the ex
@@ -69,6 +69,30 @@ def convert_csv_to_dict(filename):
     k=len(temp_list)
     
     headers=temp_list[0]
+
+
+    # sort list
+      
+    if sort_key!='':
+        index=0
+    
+        for i in range(len(headers)):
+            if headers[i]==sort_key:
+                index=i
+                break
+    
+        sorted_list=[]
+    
+        sorted_list.append(headers)
+    
+        entries_for_sorting=temp_list[1:]
+    
+        entries_for_sorting.sort(key=lambda a: a[index].lower(), reverse=True)
+    
+        sorted_list.extend(entries_for_sorting)
+    
+        temp_list=sorted_list
+
     
     for i in range(k):
             list_of_dicts.append({})

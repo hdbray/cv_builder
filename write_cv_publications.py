@@ -14,7 +14,9 @@ def compile_publications(publications_file,table_spacing, lwidth, rwidth, select
     publications_txt=wc.header_setup('Preprints and Publications', table_spacing,lwidth,rwidth)
     selected_publications_txt=wc.header_setup('Selected Publications', table_spacing,lwidth,rwidth)
 
-    publications_dict=wc.convert_csv_to_dict(publications_file)
+    publications_dict=wc.convert_csv_to_dict(publications_file,'Year')
+
+#    print(publications_dict[0])
 
 
     for i in range(len(publications_dict)):

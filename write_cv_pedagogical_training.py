@@ -8,7 +8,7 @@ import write_cv_main_functions as wc
 def compile_pedagogical_training(pedagogical_training_file, table_spacing,lwidth,rwidth):
 
     pedagogical_training_txt=wc.header_setup('Pedagogical Training', table_spacing,lwidth,rwidth)
-    pedagogical_training_dict=wc.convert_csv_to_dict(pedagogical_training_file)
+    pedagogical_training_dict=wc.convert_csv_to_dict(pedagogical_training_file,'Sorting Date')
 
     for i in range(len(pedagogical_training_dict)):
         row=pedagogical_training_dict[i]

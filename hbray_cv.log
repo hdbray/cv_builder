@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 DEC 2022 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  1 SEP 2023 13:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,35 +739,35 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 ))
-(./tex_files/mentoring.tex [2]) (./tex_files/service.tex [3])
-(./tex_files/teaching.tex [4]) (./tex_files/talks_visits.tex
+(./tex_files/mentoring.tex [2]) (./tex_files/service.tex [3] [4])
+(./tex_files/teaching.tex [5]) (./tex_files/talks_visits.tex
 Underfull \hbox (badness 1412) in paragraph at lines 50--51
 []|\OT1/pplx/b/n/10 School on Ge-om-e-try and Dy-nam-ics\OT1/pplx/m/n/10 . \OT1
 /pplx/m/it/10 Cen-tre In-ter-na-tional de Ren-con-tres
  []
 
-[5]
-Underfull \hbox (badness 2065) in paragraph at lines 70--72
+[6]
+Underfull \hbox (badness 2065) in paragraph at lines 68--70
 []|\OT1/pplx/b/n/10 Mathematical Re-search Com-mu-nity Work-shop on Dy-nam-i-ca
 l Sys-tems:
  []
 
-[6]
-Underfull \hbox (badness 2418) in paragraph at lines 101--102
+[7]
+Underfull \hbox (badness 2418) in paragraph at lines 103--104
 []|\OT1/pplx/b/n/10 S^^Seminaire: Dy-namique, Arithm^^Sethique et Com-bi-na-toi
 re\OT1/pplx/m/n/10 . \OT1/pplx/m/it/10 In-sti-tut de
  []
 
-[7]) (./tex_files/pedagogical_training.tex
+[8]) (./tex_files/pedagogical_training.tex
 Underfull \hbox (badness 2644) in paragraph at lines 15--15
 []|\OT1/pplx/m/n/10 Summer 2016, Sum-
  []
 
-) (./tex_files/memberships.tex) [8] (./hbray_cv.aux) ) 
+) (./tex_files/memberships.tex) [9] (./hbray_cv.aux) ) 
 Here is how much of TeX's memory you used:
  14572 strings out of 480608
  278204 string characters out of 5903631
- 517367 words of memory out of 5000000
+ 515367 words of memory out of 5000000
  29950 multiletter control sequences out of 15000+600000
  558309 words of font info for 89 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
@@ -778,10 +778,10 @@ s/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
 urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/pal
 atino/uplri8a.pfb>
-Output written on hbray_cv.pdf (8 pages, 97081 bytes).
+Output written on hbray_cv.pdf (9 pages, 99568 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

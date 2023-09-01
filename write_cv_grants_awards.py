@@ -7,7 +7,7 @@ import write_cv_main_functions as wc
 def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth):
 
     grants_awards_txt=wc.header_setup('Grants and Awards', table_spacing,lwidth,rwidth)
-    grants_awards_dict=wc.convert_csv_to_dict(grants_awards_file)
+    grants_awards_dict=wc.convert_csv_to_dict(grants_awards_file,'Sorting Date')
 
     for i in range(len(grants_awards_dict)):
         row=grants_awards_dict[i]
@@ -17,6 +17,10 @@ def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth):
         award_type=row['Type']
         pis=row['PIs']
         copis=row['Co-PIs']
+
+
+
+
         start_mo=row['Starting Month']
         if start_mo!='':
             start_mo=start_mo[:3]

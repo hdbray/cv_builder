@@ -7,7 +7,7 @@ import write_cv_main_functions as wc
 def compile_teaching(teaching_file, table_spacing,lwidth,rwidth):
 
     teaching_txt=wc.header_setup('Teaching Experience', table_spacing,lwidth,rwidth, False)
-    teaching_dict=wc.convert_csv_to_dict(teaching_file)
+    teaching_dict=wc.convert_csv_to_dict(teaching_file,'Sorting Date')
 
     institutions_set=set()
     institutions_count_dict={}
