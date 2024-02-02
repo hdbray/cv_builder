@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 DEC 2022 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 JAN 2024 16:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -720,25 +720,28 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 \MPnumerator=\count298
 \makeMPintoPDFobject=\count299
 \everyMPtoPDFconversion=\toks43
-) ABD: EveryShipout initializing macros (./tex_files/simons_talks.tex) [1{/usr/
-local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./simons_talks.aux) ) 
-Here is how much of TeX's memory you used:
- 14466 strings out of 480608
- 276582 string characters out of 5903631
- 507768 words of memory out of 5000000
- 29885 multiletter control sequences out of 15000+600000
- 549894 words of font info for 67 fonts, out of 8000000 for 9000
- 1302 hyphenation exceptions out of 8191
- 60i,6n,60p,393b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/
-8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/l
-ocal/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on simons_talks.pdf (1 page, 57983 bytes).
-PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+) ABD: EveryShipout initializing macros
 
+! LaTeX Error: File `tex_files/simons_talks24.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+./simons_talks.tex:49: Emergency stop.
+<read *> 
+         
+l.49   \input{tex_files/simons_talks24.tex}
+                                           ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 14437 strings out of 480608
+ 276280 string characters out of 5903631
+ 495768 words of memory out of 5000000
+ 29877 multiletter control sequences out of 15000+600000
+ 540707 words of font info for 47 fonts, out of 8000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 60i,3n,60p,393b,140s stack positions out of 5000i,500n,10000p,200000b,80000s
+./simons_talks.tex:49:  ==> Fatal error occurred, no output PDF file produced!

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 JAN 2024 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 JAN 2024 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**short_cv.tex
-(./short_cv.tex
+**simons_cv24.tex
+(./simons_cv24.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
@@ -614,8 +614,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count293
 \l__pdf_internal_box=\box109
 )
-(./short_cv.aux)
-\openout1 = `short_cv.aux'.
+(./simons_cv24.aux)
+\openout1 = `simons_cv24.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
@@ -720,33 +720,28 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 \MPnumerator=\count298
 \makeMPintoPDFobject=\count299
 \everyMPtoPDFconversion=\toks43
-) ABD: EveryShipout initializing macros (./tex_files/positions.tex)
-(./tex_files/education.tex) (./tex_files/research_interests.tex)
-(./tex_files/grants_awards.tex
-LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
-12.
+) ABD: EveryShipout initializing macros
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1pplx.fd
-File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./tex_files/selected_publications.tex) [2] (./short_cv.aux) ) 
+! LaTeX Error: File `tex_files/positions.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+./simons_cv24.tex:49: Emergency stop.
+<read *> 
+         
+l.49   \input{tex_files/positions.tex}
+                                      ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
 Here is how much of TeX's memory you used:
- 14510 strings out of 480608
- 277347 string characters out of 5903631
- 507831 words of memory out of 5000000
- 29909 multiletter control sequences out of 15000+600000
- 553014 words of font info for 73 fonts, out of 8000000 for 9000
+ 14440 strings out of 480608
+ 276279 string characters out of 5903631
+ 495872 words of memory out of 5000000
+ 29880 multiletter control sequences out of 15000+600000
+ 540707 words of font info for 47 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,6n,60p,440b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texli
-ve/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-d
-ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fon
-ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
-1/urw/palatino/uplri8a.pfb>
-Output written on short_cv.pdf (2 pages, 63508 bytes).
-PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 60i,3n,60p,392b,140s stack positions out of 5000i,500n,10000p,200000b,80000s
+./simons_cv24.tex:49:  ==> Fatal error occurred, no output PDF file produced!
