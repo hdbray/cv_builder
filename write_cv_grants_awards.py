@@ -4,14 +4,19 @@ import write_cv_main_functions as wc
 
 #### grants and awards CV data
 
-def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth):
+def compile_grants(grants_file, table_spacing,lwidth,rwidth):
+
+    grants_txt=wc.header_setup('Grants and Funding', table_spacing,lwidth,rwidth)
+    awards_txt=wc.header_setup('Awards and Honors', table_spacing,lwidth,rwidth)
 
     grants_awards_txt=wc.header_setup('Grants and Awards', table_spacing,lwidth,rwidth)
-    grants_awards_dict=wc.convert_csv_to_dict(grants_awards_file,'Sorting Date')
+
+    grants_awards_dict=wc.convert_csv_to_dict(grants_file,'Sorting Date')
+
+    
 
     for i in range(len(grants_awards_dict)):
         row=grants_awards_dict[i]
-
         award_name=row['Award Name']
         institution_name=row['Institution Name']
         award_type=row['Type']
@@ -47,7 +52,8 @@ def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth):
 
         add_text=wc.create_table_entry(award_name,date,is_end,institution_name, '', note, description,False)
 
-        grants_awards_txt=grants_awards_txt+add_text
+        if award_type!='':
+            grants_awards_txt=grants_awards_txt+add_text
 
     return grants_awards_txt
 

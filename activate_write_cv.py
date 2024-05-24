@@ -8,6 +8,7 @@ import write_cv_mentoring as wc_mentoring
 import write_cv_teaching as wc_teaching
 import write_cv_service as wc_service
 
+#shortcv_boolean=True
 shortcv_boolean=False
 
 
@@ -50,7 +51,7 @@ with open(selected_publications_tex, 'w') as write_file:
     write_file.write(selected_publications_text_for_tex)
 
 
-#### write grants_awards tex file
+#### write grants tex file
 
 prefix='grants_awards'
 grants_awards_file='csv_files/'+prefix+'.csv'
@@ -58,7 +59,8 @@ grants_awards_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=default_table_spacing
 
-grants_awards_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth)
+grants_awards_text_for_tex=wc_grants_awards.compile_grants(grants_awards_file,table_spacing,default_lwidth,default_rwidth)
+
 
 with open(grants_awards_tex, 'w') as write_file:
     write_file.write(grants_awards_text_for_tex)
