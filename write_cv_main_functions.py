@@ -164,6 +164,8 @@ def create_table_entry(main,date=0,end=True, primary_note='', location='', secon
         location=' '+location+'. '
     if simple==True:
         text='%s & %s' % (date,main)
+    elif main=='':
+        text='%s & %s%s%s%s ' % (date, primary_note, location, add_note, add_descr)
     else: 
         text='%s & \\textbf{%s}. %s%s%s%s ' % (date, main,primary_note, location, add_note, add_descr)
     if end==False:

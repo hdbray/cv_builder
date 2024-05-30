@@ -58,7 +58,7 @@ grants_awards_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=default_table_spacing
 
-grants_awards_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth)
+grants_awards_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth,False)
 
 with open(grants_awards_tex, 'w') as write_file:
     write_file.write(grants_awards_text_for_tex)
@@ -161,3 +161,14 @@ with open(teaching_tex, 'w') as write_file:
     write_file.write(teaching_text_for_tex)
 
 
+#### write appendix tex file
+
+prefix='appendix'
+appendix_tex='tex_files/'+prefix+'.tex'
+
+table_spacing=default_table_spacing
+
+appendix_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth,True)
+
+with open(appendix_tex, 'w') as write_file:
+    write_file.write(appendix_text_for_tex)

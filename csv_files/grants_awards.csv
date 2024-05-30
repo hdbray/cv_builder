@@ -1,13 +1,18 @@
-Award Short Name,Award Name,Institution Short Name,Institution Name,Type,PIs,Co-PIs,Starting Month,Starting Year,Ending Month,Ending Year,Sorting Date,Grant Number,Awarded Amount,Status,Note,Description,Extended Description
-LG\&TBQ,"LG\&TBQ: a conference celebrating LGBTQ+ mathematicians in geometry, topology, and dynamical systems",NSF,National Science Foundation,Conference Grant,,H Bray and A Kent,June,2019,,,2019_06,,"40,000",awarded,,,
-Michigan LS\&A Mini-Grant,"University of Michigan College of Literature, Science, and the Arts Mini-Grant",Univ of Michigan LS\&A,"University of Michigan College of Literature, Science, and the Arts",Conference Grant,H Bray,,June ,2019,,,2019_06,,"2,500",awarded,,,
-The Frederick Gehring Award,The Frederick Gehring Award for Postdoctoral Excellence,Univ of Michigan Mathematics,The University of Michigan Mathematics Department,Award,,,April ,2019,,,2019_04,,,awarded,,,
-AMS Simons Research Travel Grant,AMS Simons Research Travel Grant,AMS,American Mathematical Society,Research Grant,,,,2018,,2022,2022,,"4,000",awarded,,,Awarded to early career mathematicians with strong research potential.
-Outstanding Academic Scholarship Nominee,Outstanding Academic Scholarship Nominee,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Award,,,April ,2016,,,2016_04,,,awarded,Finalist,,
-Distinguished Teaching Prize,Distinguished Teaching Prize,Tufts Mathematics ,Tufts University Department of Mathematics,Award,,,October,2015,,,2015_10,,,awarded,,,
-The Robert P. Guertin Graduate Student Leadership Award,The Robert P. Guertin Graduate Student Leadership Award,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Award,,,April ,2015,,,2015_04,,,awarded,,,
-GIFT Fellowship,Graduate Institute for Teaching Fellowship,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Fellowship,,,May,2015,December,2015,2015_12,,,awarded,,,
-GEAR Graduate Intern Travel Grant,GEAR Graduate Intern Travel Grant,GEAR,Geometric Structures and Representation Varieties (GEAR) Network,Grant,,,August ,2016,,,2016_08,,"3,100",awarded,,,
-AMS Graduate Student Travel Grant,AMS Graduate Student Travel Grant,AMS,American Science Foundation ,Grant,,,January ,2016,,,2016_01,,,awarded,,,
-Tufts GSAS Conference Travel Grant ,Tufts GSAS Conference Travel Grant ,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Grant,,,,2012,,2014,2014,,,awarded,,,
-4-VA Collaborative Research Grant Award,4-VA Collaborative Research Grant Award,Univ of Virginia,University of Virginia,Grant,,,September,2024,,,2024_09,,"30,000",awarded,,,
+Award Short Name,Award Name,Institution Short Name,Institution Name,Type,PIs,Co-PIs,Starting Month,Starting Year,Ending Month,Ending Year,Application Month,Application Year,Sorting Date,Grant Number,Awarded Amount,Status,Note,Description,Extended Description
+LG\&TBQ,"LG\&TBQ: a conference celebrating LGBTQ+ mathematicians in geometry, topology, and dynamical systems",NSF,National Science Foundation,Conference Grant,,H. Bray and A. Kent,June,2019,,,,,2019_06,,"40,000",awarded,,,
+Michigan LS\&A Mini-Grant,"University of Michigan College of Literature, Science, and the Arts Mini-Grant",Univ of Michigan LS\&A,"University of Michigan College of Literature, Science, and the Arts",Conference Grant,H. Bray,,June ,2019,,,,,2019_06,,"2,500",awarded,,,
+The Frederick Gehring Award,The Frederick Gehring Award for Postdoctoral Excellence,Univ of Michigan Mathematics,The University of Michigan Mathematics Department,Award,,,April ,2019,,,,,2019_04,,,awarded,,,
+AMS Simons Research Travel Grant,AMS Simons Research Travel Grant,AMS,American Mathematical Society,Research Grant,,,,2018,,2022,,,2022,,"4,000",awarded,,,Awarded to early career mathematicians with strong research potential.
+Outstanding Academic Scholarship Nominee,Outstanding Academic Scholarship Nominee,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Award,,,April ,2016,,,,,2016_04,,,awarded,Finalist,,
+Distinguished Teaching Prize,Distinguished Teaching Prize,Tufts Mathematics ,Tufts University Department of Mathematics,Award,,,October,2015,,,,,2015_10,,,awarded,,,
+The Robert P. Guertin Graduate Student Leadership Award,The Robert P. Guertin Graduate Student Leadership Award,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Award,,,April ,2015,,,,,2015_04,,,awarded,,,
+GIFT Fellowship,Graduate Institute for Teaching Fellowship,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Fellowship,,,May,2015,December,2015,,,2015_12,,,awarded,,,
+GEAR Graduate Intern Travel Grant,GEAR Graduate Intern Travel Grant,GEAR,Geometric Structures and Representation Varieties (GEAR) Network,Grant,,,August ,2016,,,,,2016_08,,"3,100",awarded,,,
+AMS Graduate Student Travel Grant,AMS Graduate Student Travel Grant,AMS,American Science Foundation ,Grant,,,January ,2016,,,,,2016_01,,,awarded,,,
+Tufts GSAS Conference Travel Grant ,Tufts GSAS Conference Travel Grant ,Tufts Univ GSAS,Tufts University Graduate School of Arts and Sciences,Grant,,,,2012,,2014,,,2014,,,awarded,,,
+4-VA Collaborative Research Grant Award,4-VA Collaborative Research Grant Award,Univ of Virginia,University of Virginia,Grant,J.D. Quigley,"H. Bray, R. Field, A. Lukyanenko, and A. Moore",September,2024,,,,,2024_09,,"30,000",awarded,,,
+"Entropy, dynamics, and geometries of moduli spaces","Entropy, dynamics, and geometries of moduli spaces",Simons Foundation,Simons Foundation Travel Support for Mathematicians,Grant,,,September,2024,August,2029,January,2024,2024_01,,"42,000",pending,,,
+"Entropy, dynamics, and geometries of moduli spaces","Entropy, dynamics, and geometries of moduli spaces",Simons Foundation,Simons Foundation Travel Support for Mathematicians,Grant,,,,,,,January,2023,2023_01,,"42,000",declined,,,
+"Hidden Structures of Entropy in Symbolic Systems, Rational Maps \&
+     Hyperbolic Spaces","Hidden Structures of Entropy in Symbolic Systems, Rational Maps \&
+     Hyperbolic Spaces",NSF PD 16-1281 Analysis,National Science Foundation Division of Mathematical Sciences PD 16-1281 Analysis,Grant,,"H. Bray, K. Lindsey, and C. Wu",,,,,October,2023,2023_10,,"298,687",declined,Collaboration Grant,,
