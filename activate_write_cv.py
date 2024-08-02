@@ -8,7 +8,7 @@ import write_cv_mentoring as wc_mentoring
 import write_cv_teaching as wc_teaching
 import write_cv_service as wc_service
 
-shortcv_boolean=False
+shortcv_boolean=True
 
 
 default_table_spacing=1.5
@@ -58,7 +58,7 @@ grants_awards_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=default_table_spacing
 
-grants_awards_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth,False)
+grants_awards_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth,False,shortcv_boolean)
 
 with open(grants_awards_tex, 'w') as write_file:
     write_file.write(grants_awards_text_for_tex)
@@ -99,7 +99,7 @@ talks_visits_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=default_table_spacing
 
-talks_visits_text_for_tex=wc_talks_visits.compile_talks_visits(talks_visits_file,table_spacing,thick_lwidth,thick_rwidth)
+talks_visits_text_for_tex=wc_talks_visits.compile_talks_visits(talks_visits_file,table_spacing,thick_lwidth,thick_rwidth,shortcv_boolean)
 
 with open(talks_visits_tex, 'w') as write_file:
     write_file.write(talks_visits_text_for_tex)
@@ -126,7 +126,7 @@ service_tex='tex_files/'+prefix+'.tex'
 
 table_spacing=thin_table_spacing
 
-service_text_for_tex=wc_service.compile_service(service_file,table_spacing,thick_lwidth,thick_rwidth)
+service_text_for_tex=wc_service.compile_service(service_file,table_spacing,thick_lwidth,thick_rwidth,shortcv_boolean)
 
 with open(service_tex, 'w') as write_file:
     write_file.write(service_text_for_tex)
@@ -143,7 +143,10 @@ table_spacing=thin_table_spacing
 pedagogical_training_text_for_tex=wc_pedagogical_training.compile_pedagogical_training(pedagogical_training_file,table_spacing,thick_lwidth,thick_rwidth)
 
 with open(pedagogical_training_tex, 'w') as write_file:
-    write_file.write(pedagogical_training_text_for_tex)
+    if shortcv_boolean==False: 
+        write_file.write(pedagogical_training_text_for_tex)
+    else: 
+        write_file.write('')
 
 
 
@@ -163,12 +166,21 @@ with open(teaching_tex, 'w') as write_file:
 
 #### write appendix tex file
 
+    
 prefix='appendix'
 appendix_tex='tex_files/'+prefix+'.tex'
-
+   
 table_spacing=default_table_spacing
-
-appendix_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth,True)
-
+   
+appendix_text_for_tex=wc_grants_awards.compile_grants_awards(grants_awards_file,table_spacing,default_lwidth,default_rwidth,True,shortcv_boolean)
+    
 with open(appendix_tex, 'w') as write_file:
-    write_file.write(appendix_text_for_tex)
+    if shortcv_boolean==False:
+        write_file.write(appendix_text_for_tex)
+    else: 
+        write_file.write('')
+
+
+
+
+

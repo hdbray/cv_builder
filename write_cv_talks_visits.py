@@ -5,7 +5,8 @@ import write_cv_main_functions as wc
 
 ### talks_visits
 
-def compile_talks_visits(talks_visits_file, table_spacing,lwidth,rwidth):
+def compile_talks_visits(talks_visits_file,
+                         table_spacing,lwidth,rwidth,shortcv_boolean):
 
     talks_visits_dict=wc.convert_csv_to_dict(talks_visits_file,'Sorting Date')
 
@@ -105,8 +106,9 @@ def compile_talks_visits(talks_visits_file, table_spacing,lwidth,rwidth):
 
         
     talks_visits_txt+=invited_talks_txt
-    talks_visits_txt+=conferences_attended_txt
-    talks_visits_txt+=seminars_attended_txt
+    if shortcv_boolean==False: 
+        talks_visits_txt+=conferences_attended_txt
+        talks_visits_txt+=seminars_attended_txt
     talks_visits_txt+=invited_guest_txt
 
 

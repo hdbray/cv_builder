@@ -4,8 +4,7 @@ import write_cv_main_functions as wc
 
 #### grants and awards CV data
 
-def compile_grants_awards(grants_awards_file,
-                          table_spacing,lwidth,rwidth,is_appendix):
+def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth,is_appendix,shortcv_boolean):
 
     grants_awards_dict=wc.convert_csv_to_dict(grants_awards_file,'Sorting Date')
 
@@ -63,6 +62,16 @@ def compile_grants_awards(grants_awards_file,
         description=row['Description']
     
 
+        if pis!='':
+            if copis!='':
+                description='PI(s): %s. Co-PI(s): %s.' % (pis,copis)
+            else: 
+                description='PI(s): %s.' % (pis)
+        else:
+            if copis!='': 
+                description='Co-PI(s): %s.' % (copis)
+        
+        
         date=wc.format_date('', start_mo, start_year, '', '', end_mo, end_year, '', active=False)
 
         is_end=i==length #len(grants_dict)-1
@@ -124,6 +133,15 @@ def compile_grants_awards(grants_awards_file,
         add_text=wc.create_table_entry(award_name,date,is_end,institution_name, '', note, description,False)
 
         awards_txt=awards_txt+add_text
+
+    if shortcv_boolean==False:
+        awards_txt+='''
+
+See Appendix for a list of additional proposals submitted to the NSF and
+Simons Foundation.
+
+    '''
+
 
 ### start compiling the text for appendix (pending and declined)
 

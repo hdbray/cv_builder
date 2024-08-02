@@ -3,7 +3,8 @@ import write_cv_main_functions as wc
 
 ### service
 
-def compile_service(service_file, table_spacing,lwidth,rwidth):
+def compile_service(service_file,
+                    table_spacing,lwidth,rwidth,shortcv_boolean):
 
     service_dict=wc.convert_csv_to_dict(service_file,'Sorting Date')
 
@@ -74,6 +75,8 @@ def compile_service(service_file, table_spacing,lwidth,rwidth):
         topic_or_org=row['Topic or Organization']
         details=row['Significant Details']
         description=row['Description']
+        if shortcv_boolean==True:
+            description=''
 
         start_day=row['Start Day']
         start_mo=row['Start Month']
