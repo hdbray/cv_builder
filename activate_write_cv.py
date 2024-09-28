@@ -8,7 +8,7 @@ import write_cv_mentoring as wc_mentoring
 import write_cv_teaching as wc_teaching
 import write_cv_service as wc_service
 
-shortcv_boolean=True
+shortcv_boolean=False
 
 
 default_table_spacing=1.5
