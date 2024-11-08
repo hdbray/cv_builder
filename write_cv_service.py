@@ -76,7 +76,6 @@ def compile_service(service_file,
         outreach_txt=wc.subheader_setup('Community Outreach', table_spacing,lwidth, rwidth)
 
     for i in range(len(service_dict)):
-        sample_txt='this is just a test & \\\\ '
         row=service_dict[i]
         role=row['Role']
         activity_type=row['Type (service, committee work, outreach, leadership, organizing)']
@@ -143,7 +142,7 @@ def compile_service(service_file,
             leadership_index_count+=1
             is_end=leadership_index_count==leadership_count
             leadership_txt+= wc.create_table_entry(role,date,is_end, topic_or_org, details, '', description,False)
-        else:
+        elif activity_type=='outreach':
             outreach_index_count+=1
             is_end=outreach_index_count==outreach_count
             outreach_txt+= wc.create_table_entry(role,date,is_end, topic_or_org, details, '', description,False)
