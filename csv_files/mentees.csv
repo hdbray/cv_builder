@@ -1,28 +1,39 @@
-Student,Institution,Student Institution (If different from host institution),Student Status,Mentoring Role,CoMentors (leave blank if none),Start Month,Start Year,End Month,End Year,Decription,Additional Notes
-Marianne DeBrito,University of Michigan,,Undergraduate,LoGM Project Supervisor,Giuseppe Martone,January,2020,Spring,2022,"Lab of Geometry at Michigan (LoGM) research project. Preprint authored by DeBrito, Nguyen, and O'Gara submitted for publication.",
-Andrew Nguyen,University of Michigan,,Undergraduate,LoGM Project Supervisor,Giuseppe Martone,January,2020,Spring,2022,"Lab of Geometry at Michigan (LoGM) research project. Preprint authored by DeBrito, Nguyen, and O'Gara submitted for publication.",
-Marisa O'Gara,University of Michigan,,Undergraduate,LoGM Project Supervisor,Giuseppe Martone,January,2020,,,"Lab of Geometry at Michigan (LoGM) research project. Preprint authored by DeBrito, Nguyen, and O'Gara submitted for publication.",
-Robert Buckley,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2019,,,"Lab of Geometry at Michigan (LoGM) research project. Preprint authored by Buckley, Chen, O'Brien, and Zhou submitted. Data published with Deep Blue Data, University of Michigan",
-Ziyi (Zoe) Zhou,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2019,,,"Lab of Geometry at Michigan (LoGM) research project. Preprint authored by Buckley, Chen, O'Brien, and Zhou submitted. Data published with Deep Blue Data, University of Michigan. ","In Fall 2022, Zoe began a graduate degree in business analytics at Columbia University"
-Grace O'Brien,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2019,,,"Lab of Geometry at Michigan (LoGM) research project. Preprint authored by Buckley, Chen, O'Brien, and Zhou submitted. Data published with Deep Blue Data, University of Michigan. ",
-Steven Schaefer,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2018,,2020,Lab of Geometry at Michigan (LoGM) research project.,"In Fall 2019, Steven began a PhD program in mathematics at the Univ of Indiana, Bloomington"
-Rudra Ranganathan,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2018,December,2018,Lab of Geometry at Michigan (LoGM) research project.,
-Hanissa Shamsuddin,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2018,December,2018,Lab of Geometry at Michigan (LoGM) research project.,
-Jennifer Jones-Baro,University of Michigan,CiMat,Undergraduate,REU Project Supervisor,,June,2017,,,University of Michigan Summer Research Experiences for Undergraduates (REU) Program. ,"In Fall 2019, Jenny began a PhD program in mathematics at Northwestern University"
-Martha Hartt,George Mason University,,PhD,Outreach Supervisor,,January,2022,,,Mason Experimental Geometry Lab (MEGL) outreach,
-Aleyah Dawkins,George Mason University,,PhD,Outreach Supervisor,,September,2021,,,Mason Experimental Geometry Lab (MEGL) outreach,
-Joanna Ro,George Mason University,,Undergraduate,Outreach Supervisor,,January,2022,,,Mason Experimental Geometry Lab (MEGL) outreach,"In Fall 2022, Jo began a PhD program in mathematics at George Mason University"
-Swan Klein,George Mason University,,Undergraduate,LA Supervisor,,January,2022,,,Learning Assistant (LA) for Math 300: introduction to advanced mathematics,
-Lujain Nsair,George Mason University,,Undergraduate,Outreach Supervisor,,September,2021,,,Mason Experimental Geometry Lab (MEGL) outreach,"In Fall 2022, Lujain began a PhD program in mathematics at Bryn Mawr"
-Aidan Donahue,George Mason University,,Undergraduate,Outreach Supervisor,,September,2020,,,Mason Experimental Geometry Lab (MEGL) outreach intern and Learning Assistant (LA) for Math 300: introduction to advanced mathematics,"In Fall 2022, Aidan began a PhD program in mathematics at the University of Missouri"
-Susan Tarabulsi,George Mason University,,Undergraduate / MS,,,September,2020,May,2022,Mason Experimental Geometry Lab (MEGL) outreach,
-Danielle Gazes,George Mason University,,Undergraduate / MS,LA Supervisor,,September,2020,May,2021,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,
-Hannah Clark,George Mason University,,Undergraduate,LA Supervisor,,January,2021,May,2021,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,
-Hannah Bowman,George Mason University,,Undergraduate / MS,Grading Supervisor,,September,2020,December,2021,Grader for Math 271: mathematics for elementary teachers I,
-Yassin Hussein,George Mason University,,Undergraduate,Grading Supervisor,,September,2020,December,2020,Grader for Math 114: calculus II,
-Alison Trainor,George Mason University,,Undergraduate / MS,LA Supervisor,,September,2020,December,2021,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,
-June Kang,George Mason University,,Undergraduate,LA Supervisor,,January,2021,May,2021,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,
-Max Werkhauser,George Mason University,,Undergraduate,Grading Supervisor,,September,2022,December,2022,Grader for Math 125: Discrete Mathematics I,
-Andrew Miller,George Mason University,,Undergraduate,LA Supervisor,,September,2022,December,2022,Learning Assistant (LA) for Math 125: Discrete Mathematics I,
-Eileen Nolan,George Mason University,,Undergraduate,LA Supervisor,,September,2022,December,2022,Learning Assistant (LA) for Math 125: Discrete Mathematics I,
-Baichuan Chen,George Mason University,,PhD,PhD Advisor,,August,2022,,,,
+Student,Institution,Student Institution (If different from host institution),Student Status,Mentoring Role,CoMentors (leave blank if none),Start Month,Start Year,End Month,End Year,Sorting Date,Decription,Additional Notes
+Samantha Pinella,University of Michigan,,PhD,Dissertation Committee Member,,April,2020,,,2020_04,,
+Hannah Bowman,George Mason University,,Undergraduate / MS,Grading Supervisor,,September,2020,December,2021,2021_12,Grader for Math 271: mathematics for elementary teachers I,
+Yassin Hussein,George Mason University,,Undergraduate,Grading Supervisor,,September,2020,December,2020,2020_12,Grader for Math 114: calculus II,
+Max Werkhauser,George Mason University,,Undergraduate,Grading Supervisor,,September,2022,December,2022,2022_12,Grader for Math 125: Discrete Mathematics I,
+Swan Klein,George Mason University,,Undergraduate,LA Supervisor,,January,2022,May,2022,2022_05,Learning Assistant (LA) for Math 300: introduction to advanced mathematics,
+Danielle Gazes,George Mason University,,Undergraduate / MS,LA Supervisor,,September,2020,May,2021,2021_05,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,2 semesters
+Hannah Clark,George Mason University,,Undergraduate,LA Supervisor,,January,2021,May,2021,2021_05,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,
+Alison Trainor,George Mason University,,Undergraduate / MS,LA Supervisor,,September,2020,December,2021,2021_12,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,3 semesters
+June Kang,George Mason University,,Undergraduate,LA Supervisor,,January,2021,May,2021,2021_05,Learning Assistant (LA) for Math 271: mathematics for elementary teachers I,
+Andrew Miller,George Mason University,,Undergraduate,LA Supervisor,,September,2022,December,2022,2022_12,Learning Assistant (LA) for Math 125: Discrete Mathematics I,
+Eileen Nolan,George Mason University,,Undergraduate,LA Supervisor,,September,2022,December,2022,2022_12,Learning Assistant (LA) for Math 125: Discrete Mathematics I,
+Marianne DeBrito,University of Michigan,,Undergraduate,LoGM Project Supervisor,Giuseppe Martone,January,2020,May,2022,2022_05,Lab of Geometry at Michigan (LoGM) research project.,
+Andrew Nguyen,University of Michigan,,Undergraduate,LoGM Project Supervisor,Giuseppe Martone,January,2020,May,2022,2022_05,Lab of Geometry at Michigan (LoGM) research project.,
+Marisa O'Gara,University of Michigan,,Undergraduate,LoGM Project Supervisor,Giuseppe Martone,January,2020,May,2022,2022_05,Lab of Geometry at Michigan (LoGM) research project.,
+Robert Buckley,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2019,May,2020,2020_05,Lab of Geometry at Michigan (LoGM) research project.,
+Ziyi (Zoe) Zhou,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2019,May,2020,2020_05,Lab of Geometry at Michigan (LoGM) research project.,"In Fall 2022, Zoe began a graduate degree in business analytics at Columbia University"
+Grace O'Brien,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2019,May,2020,2020_05,Lab of Geometry at Michigan (LoGM) research project.,
+Steven Schaefer,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2018,December,2018,2018_12,Lab of Geometry at Michigan (LoGM) research project.,"In Fall 2019, Steven began a PhD program in mathematics at the Univ of Indiana, Bloomington"
+Rudra Ranganathan,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2018,December,2018,2018_12,Lab of Geometry at Michigan (LoGM) research project.,
+Hanissa Shamsuddin,University of Michigan,,Undergraduate,LoGM Project Supervisor,,September,2018,December,2018,2018_12,Lab of Geometry at Michigan (LoGM) research project.,
+Mitul Islam,University of Michigan,,PhD,LoGM Project Supervisor,Giuseppe Martone,January,2020,May,2022,2022_05,Lab of Geometry at Michigan (LoGM) research project.,
+Nguphuong Au,George Mason University,,Undergraduate,MEGL Project Supervisor,,January,2023,May,2023,2023_05,Mason Experimental Geometry Lab (MEGL) research project.,
+Merold Saffa,George Mason University,,Undergraduate,MEGL Project Supervisor,,January,2023,May,2023,2023_05,Mason Experimental Geometry Lab (MEGL) research project.,
+Aidan Self,George Mason University,,Undergraduate,MEGL Project Supervisor,,January,2023,May,2023,2023_05,Mason Experimental Geometry Lab (MEGL) research project.,
+Sydney Thu,George Mason University,,Undergraduate,MEGL Project Supervisor,,January,2023,May,2023,2023_05,Mason Experimental Geometry Lab (MEGL) research project.,
+Madeline Horton,George Mason University,,PhD,MEGL Project Supervisor,,January,2023,May,2023,2023_05,Mason Experimental Geometry Lab (MEGL) research project.,
+Baichuan Chen,George Mason University,,MS,MS Advisor,,August,2022,May,2022,2022_05,,"In Fall 2024, Baichuan began a PhD program in mathematics at the University of Utah"
+Martha Hartt,George Mason University,,PhD,Outreach Supervisor,,January,2022,May,2023,2023_05,Mason Experimental Geometry Lab (MEGL) outreach,
+Aleyah Dawkins,George Mason University,,PhD,Outreach Supervisor,,September,2021,May,2022,2022_05,Mason Experimental Geometry Lab (MEGL) outreach,
+Joanna Ro,George Mason University,,Undergraduate,Outreach Supervisor,,January,2022,May,2022,2022_05,Mason Experimental Geometry Lab (MEGL) outreach,"In Fall 2022, Jo began a PhD program in mathematics at George Mason University"
+Lujain Nsair,George Mason University,,Undergraduate,Outreach Supervisor,,September,2021,May,2022,2022_05,Mason Experimental Geometry Lab (MEGL) outreach,"In Fall 2022, Lujain began a PhD program in mathematics at Bryn Mawr"
+Aidan Donahue,George Mason University,,Undergraduate,Outreach Supervisor,,September,2020,May,2022,2022_05,Mason Experimental Geometry Lab (MEGL) outreach intern and Learning Assistant (LA) for Math 300: introduction to advanced mathematics,"In Fall 2022, Aidan began a PhD program in mathematics at the University of Missouri"
+Madeline Horton,George Mason University,,PhD,PhD Advisor,,April,2024,,present,2027_05,,Thesis topic: Logarithms laws for geometrically finite actions on hyperbolic spaces
+Sameer Savkar,George Mason University,,PhD,PhD Committee Member,,August,2024,,present,2025_05,Doctoral candidate advised by Flavia Colonna,
+Jeanie Schreiber,George Mason University,,PhD,Qualifying Exam Committee Member,,June,2024,,,2024_06,Doctoral candidate advised by Tyrus Berry,
+Jennifer Jones-Baro,University of Michigan,CiMat,Undergraduate,REU Project Supervisor,,June,2017,October,2018,2018_10,University of Michigan Summer Research Experiences for Undergraduates (REU) Program. ,"In Fall 2019, Jenny began a PhD program in mathematics at Northwestern University"
+Susan Tarabulsi,George Mason University,,Undergraduate / MS,,,September,2020,May,2022,2022_05,Mason Experimental Geometry Lab (MEGL) outreach,"In Fall 2024, Susan began a PhD program in mathematics at George Mason University"
+Aidan Donahue,George Mason University,,Undergraduate,LA Supervisor,,January,2022,May,2022,2022_05,Learning Assistant (LA) for Math 300: introduction to advanced mathematics,

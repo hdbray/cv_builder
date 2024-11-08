@@ -135,7 +135,9 @@ def compile_grants_awards(grants_awards_file, table_spacing,lwidth,rwidth,is_app
         awards_txt=awards_txt+add_text
 
     if shortcv_boolean==False:
-        awards_txt+='''
+        grants_txt+='''
+
+        \\bigskip
 
 See Appendix for a list of additional proposals submitted to the NSF and
 Simons Foundation.

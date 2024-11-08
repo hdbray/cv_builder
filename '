@@ -28,13 +28,9 @@ def compile_mentoring(mentoring_file, table_spacing,lwidth,rwidth,shortcv=False)
             phd_count+=1
         elif mentoring_type=='other':
             other_count+=1
-        else:
-            print('''
-            error line %s of mentoring type sorted by Sorting Date in
-            reverse chronological order. Except this isn't working so just
-            look for the following row.
-                  ''' % (i) )
-            print(row)
+
+    total = mentoring_type+phd_count+other_count
+    print(str(total))
 
     for i in range(len(mentoring_dict)):
         row=mentoring_dict[i]

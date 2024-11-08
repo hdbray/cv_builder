@@ -38,8 +38,16 @@ def compile_service(service_file,
             committee_count+=1
         elif activity_type=='leadership':
             leadership_count+=1
-        else:
+        elif activity_type=='outreach':
             outreach_count+=1
+        else:
+            print('''
+
+            error line %s of service type when sorted by Sorting Date
+
+            ''' % (i))
+
+
 
 
     if other_service_count==0:

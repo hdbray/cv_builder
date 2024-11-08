@@ -7,6 +7,7 @@ import write_cv_talks_visits as wc_talks_visits
 import write_cv_mentoring as wc_mentoring
 import write_cv_teaching as wc_teaching
 import write_cv_service as wc_service
+import write_cv_referee as wc_referee
 
 shortcv_boolean=False
 
@@ -163,6 +164,16 @@ teaching_text_for_tex=wc_teaching.compile_teaching(teaching_file,table_spacing,d
 with open(teaching_tex, 'w') as write_file:
     write_file.write(teaching_text_for_tex)
 
+#### write referee report tex file
+
+prefix='referee'
+referee_file='csv_files/'+prefix+'.csv'
+referee_tex='tex_files/'+prefix+'.tex'
+
+referee_text_for_tex=wc_referee.compile_referee(referee_file)
+
+with open(referee_tex, 'w') as write_file:
+    write_file.write(referee_text_for_tex)
 
 #### write appendix tex file
 
