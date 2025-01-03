@@ -1,9 +1,9 @@
-Journal,Journal Short Name,"Service (quick opinion, full report)",Request Day,Request Month,Request Year,Request Semester,Submission Day,Submission Month,Submission Year,Submission Semester,Paper Title
-Journal of Differential Geometry,,"full report",27,June,2022,Summer,22,August,2022,Summer,
-Journal of Modern Dynamics,,"full report",23,November,2022,Fall,25,January,2023,Spring,
-Ergodic Theory and Dynamical Systems,,"full report",23,January,2024,Spring,25,January,2024,Spring,
-Journal of Topology,,"full report",5,March,2023,Spring,1,September,2023,Fall,
-Transactions of the American Mathematical Society,,"full report",25,March,2024,Spring,23,August,2024,Fall,Master teapots and entropy algorithms for the Mandelbrot set
-"Journal f\""ur die reine und angewandte Mathematik",,"full report",16,September,2024,Fall,,,,,"Relatively Anosov groups: finiteness, measure of maximal entropy, and reparametrization"
-Commentarii Mathematici Helvetici,,"full report",12,March,2024,Spring,,,,,"Volume, entropy, and diameter in $\textrm{SO}(p,q+1)$ higher Teichm\""uller spaces"
-Journal of the London Mathematical Society,,"full report",22,February,2024,Spring,22,May,2024,Spring,On the Hausdorff dimension of geodesics that diverge on average
+Journal,Journal Short Name,"Service (quick opinion, full report)",Request Day,Request Month,Request Year,Request Semester,Submission Day,Submission Month,Submission Year,Submission Semester,Paper Title,Authors
+Journal of Differential Geometry,,full report,27,June,2022,Summer,22,August,2022,Summer,,
+Journal of Modern Dynamics,,full report,23,November,2022,Fall,25,January,2023,Spring,,
+Ergodic Theory and Dynamical Systems,,full report,23,January,2024,Spring,25,January,2024,Spring,,
+Journal of Topology,,full report,5,March,2023,Spring,1,September,2023,Fall,,
+Transactions of the American Mathematical Society,,full report,25,March,2024,Spring,23,August,2024,Fall,Master teapots and entropy algorithms for the Mandelbrot set,
+"Journal f\""ur die reine und angewandte Mathematik",,full report,16,September,2024,Fall,,,,,"Relatively Anosov groups: finiteness, measure of maximal entropy, and reparametrization",Kim--Oh
+Commentarii Mathematici Helvetici,,full report,12,March,2024,Spring,2,January,2025,Spring,"Volume, entropy, and diameter in $\textrm{SO}(p,q+1)$ higher Teichm\""uller spaces",Mazzoli--Viaggi
+Journal of the London Mathematical Society,,full report,22,February,2024,Spring,22,May,2024,Spring,On the Hausdorff dimension of geodesics that diverge on average,
