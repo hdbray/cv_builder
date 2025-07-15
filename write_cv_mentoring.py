@@ -67,14 +67,20 @@ def compile_mentoring(mentoring_file, table_spacing,lwidth,rwidth,shortcv=False)
         description=row['Description']
 
         if comentors!='' and note!='':
-            description+='''
+            description='''
             Co-Mentors: %s
 
             %s
-            ''' % (comentors, note)
+
+            %s
+
+            ''' % (comentors, description,note)
         if comentors!='': 
-            description+='''
-            Co-Mentors: %s ''' % (comentors)
+            description='''
+            Co-Mentors: %s 
+
+            %s
+            ''' % (comentors, description)
 
         if shortcv==True:
             description=''

@@ -175,13 +175,13 @@ Simons Foundation.
             if note=='':
                 note='Pending.'
             else:
-                note+=', pending.'
+                note+='. Pending.'
 
         if row['Status']=='declined':
             if note=='':
                 note='Declined.'
             else:
-                note+=', declined.'
+                note+='. Declined.'
 
         description=row['Description']
     
