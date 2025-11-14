@@ -25,7 +25,7 @@ def compile_publications(publications_file,table_spacing, lwidth, rwidth, select
         authors=row['Authors']
         title=row['Title']
         year=row['Year']
-        status=row['Status']
+        status=row['Status (published, preprint, accepted, to appear, in preparation)']
         journal=row['Journal']
         vol=row['Volume']
         no=row['Number']
