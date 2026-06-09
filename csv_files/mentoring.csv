@@ -1,8 +1,8 @@
-Service Role,Project Title,Institution,Mentees,CoMentors,"Type (undergrad_research, phd, other)",Start Month,Start Year,End Month,End Year,Sorting Date,Description,Link,
+Service Role,Project Title,Institution,Mentees,CoMentors,"Type (undergrad_research, phd, other)",Start Month,Start Year,End Month,End Year,Sorting Date,Description,Link,"Phd Committee Member (chair, member, no)"
 Mentor,Graduate Student Mentoring Program,George Mason University,Joanna Ro,,phd,September,2024,December,2024,2024_12,,,
-PhD Advisor,Logarithms laws for geometrically finite group actions,George Mason University,Madeline Horton,,phd,April,2024,,present,2027_05,,,
-PhD Committee Member,,George Mason University,Sameer Savkar,,phd,August,2024,,present,2025_05,,,
-Qualifying Exam Committee Member,,George Mason University,Jeanie Schreiber,,phd,July,2024,,,2024_07,,,
+PhD Committee Chair,Logarithms laws for geometrically finite group actions,George Mason University,Madeline Horton,,phd,April,2024,,present,2027_05,Qualifying Exam: Oct 2024. Dissertation Proposal: Oct 2025. Expected Graduation: May 2027,,chair
+PhD Committee Member,,George Mason University,Sameer Savkar,,phd,August,2024,,present,2025_05,Advisor: Flavia Colonna. Qualifying Exam: Aug 2024. Dissertation Proposal: May 2025.,,member
+PhD Committee Member,,George Mason University,Jeanie Schreiber,,phd,July,2024,,,2024_07,Adivsor: Tyrus Berry. Qualifying Exam: Jul 2024. Dissertation Proposal: May 2025,,member
 Director,Mason Experimental Geometry Lab,George Mason University,,,other,September,2022,May,2023,2023_05,Supervised a management team of 6 graduate students and oversaw outreach operations led by a doctoral student and a team of 2 undergraduates and 1 MS student.,,
 Mason Experimental Geometry Lab (MEGL) Project Mentor,Hyperbolic Crochet,George Mason University,"Nguphuong Au, Merold Saffa, Aidan Self, Sydney Thu (undergraduates, George Mason University)","Madeline Horton (graduate student, George Mason University)",undergrad_research,January,2023,May,2023,2023_05,,,
 Supervisor,George Mason Learning Assistant Program,George Mason University,,,other,September,2020,May,2022,2022_05,"Mentored 11 different undergraduate learning assistants (LAs) in my active learning courses over five semesters, with some LAs working with me for up to three semesters. On average, I supervised 14/5=2.8 LAs per semester.",,
@@ -10,13 +10,15 @@ Director of Outreach,Mason Experimental Geometry Lab,George Mason University,,,o
 Lab of Geometry at Michigan (LoGM) Project Mentor,Entropy degeneration of ideal projective pants,University of Michigan,"Marianne DeBrito, Andrew Nguyen, Marisa O'Gara (undergraduates, University of Michigan)","Giuseppe Martone (postdoc, University of Michigan) and Mitul Islam (graduate student, University of Michigan)",undergrad_research,January,2020,December,2020,2020_12,"DeBrito, Marianne; Nguyen, Andrew; and O'Gara, Marisa (2021) {\it The Degeneration of the Hilbert Metric on Ideal Pants and its Application to Entropy}, {\bf Rose-Hulman Undergraduate Mathematics Journal}: Vol. 22: Iss. 1, Article 3.
 Available at: \url{https://scholar.rose-hulman.edu/rhumj/vol22/iss1/3}",,"DeBrito, Nguyen, and O'Gara published their findings at Rose Hulman Undergraduate Mathematics Journal (\url{https://scholar.rose-hulman.edu/rhumj/vol22/iss1/3/})."
 Advisor,University of Michigan Mathematics Department First Year Honors Advising,University of Michigan,,,other,July,2020,,,2020_06,,,
-Dissertation Committee Member,,University of Michigan,Samantha Pinella,,phd,April,2020,,,2020_04,,,
+Dissertation Committee Member,,University of Michigan,Samantha Pinella,,phd,April,2020,,,2020_04,Advisor: Ralf Spatzier,,member
 Lab of Geometry at Michigan (LoGM) Project Mentor,Growth rates of tent maps,University of Michigan,"Robert Buckley, Grace O'Brien, Zoe Zhou (undergraduates, University of Michigan)","Samuel Hansen (mathematics and statistics librarian, University of Michigan)",undergrad_research,September,2019,December,2019,2019_09,"Preprint authored by Buckley, Chen, O'Brien, and Zhou submitted for publication. Data published in DeepBlue Data (\url{https://deepblue.lib.umich.edu/data/concern/data_sets/2r36tx78b?locale=en}).",,
 Lab of Geometry at Michigan (LoGM) Project Mentor,3d printing nonstrictly convex projective structures,University of Michigan,"Steven Schaefer, Rudra Ranganathan, Hanissa Shamsuddin (undergraduates, University of Michigan)","Samantha Pinella and Robert Walker (graduate students, University of Michigan)",undergrad_research,September,2018,December,2018,2018_12,,,
 Michigan Summer REU  Project Mentor,"
 Random walks on the fundamental group of the once punctured torus",University of Michigan,"Jennifer Jones-Baro (undergraduate, Centro de Investigacion en Matem\'aticas) and Adam Holeman (masters student, University of Montana)","Caleb Ashley (postdoc, University of Michigan)",undergrad_research,,2017,,,2017_08,,https://lsa.umich.edu/content/dam/math-assets/math-document/Adam%20Holeman%20and%20Jennifer%20Jones-Baro.pdf,
 Mentor ,Graduate Student Summer Reading Program,George Mason University,Pier-Olivier Rodrigue,,phd,June,2024,,,2024_06,,,
-Qualifying Exam Committee Chair,,George Mason University,Madeline Horton,,phd,October,2024,,,2024_10,,,
-PhD Advisor,Finite marked length spectrum rigidity for Hitchin representations,George Mason University,Gabriel Lumpkin,,phd,December,2024,,present,2028_05,,,
+PhD Committee Chair,Finite marked length spectrum rigidity for Hitchin representations,George Mason University,Gabriel Lumpkin,,phd,December,2024,,present,2028_05,,,chair
 Mentor,Graduate Student Mentoring Program,George Mason University,Jonathan Waldmann,,phd,September,2025,May,2026,2026_05,,,
-Qualifying Exam Committee Member,,George Mason University,Anunoy Chakraborty,,phd,October,2025,,,2025_10,,,
+PhD Committee Member,,George Mason University,Anunoy Chakraborty,,phd,October,2025,,,2028_05,Advisor: Sean Lawton. Qualifying Exam: Oct 2025. Dissertation Proposal: May 2026,,member
+PhD Committee Member,,George Mason University,Kelsi Listman,,phd,October,2026,,,2026_10,Advisor: Yiannis Loizides,,member
+PhD Committee Member,,George Mason University,Pier-olivier Rodrigue,,phd,September,2026,,,2026_09,Advisor: Sean Lawton,,member
+PhD Committee Member,,George Mason University,Timothy Banks,,phd,April,2025,,,2028_05,Advisor: Anton Lukyanenko. Qualifying Exam: October 2025,,member
